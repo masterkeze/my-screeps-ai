@@ -10,3 +10,5 @@ dist/
 
 src/config.ts
 src/config.creep.ts
+package-lock.json
+package.json
